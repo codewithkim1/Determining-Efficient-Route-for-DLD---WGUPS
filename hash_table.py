@@ -1,3 +1,5 @@
+# Mail me: codewithkim1@gmail.com
+
 # This is the implementation of a hash map data structure in Python
 class HashMap:
     # The constructor for the HashMap class
